@@ -1,1 +1,2 @@
-# .github
+# Rubarb
+A Norwegian games studio
